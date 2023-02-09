@@ -1,0 +1,20 @@
+   
+
+
+PING 64.183.181.215 (64.183.181.215) 56(84) bytes of data.
+64 bytes from 64.183.181.215: icmp_seq=1 ttl=50 time=21.0 ms
+64 bytes from 64.183.181.215: icmp_seq=2 ttl=50 time=21.1 ms
+64 bytes from 64.183.181.215: icmp_seq=3 ttl=50 time=21.1 ms
+64 bytes from 64.183.181.215: icmp_seq=4 ttl=50 time=21.2 ms
+64 bytes from 64.183.181.215: icmp_seq=5 ttl=50 time=21.1 ms
+64 bytes from 64.183.181.215: icmp_seq=6 ttl=50 time=21.1 ms
+64 bytes from 64.183.181.215: icmp_seq=7 ttl=50 time=21.3 ms
+64 bytes from 64.183.181.215: icmp_seq=8 ttl=50 time=21.2 ms
+64 bytes from 64.183.181.215: icmp_seq=9 ttl=50 time=21.0 ms
+64 bytes from 64.183.181.215: icmp_seq=10 ttl=50 time=21.3 ms
+64 bytes from 64.183.181.215: icmp_seq=11 ttl=50 time=21.0 ms
+
+--- 64.183.181.215 ping statistics ---
+11 packets transmitted, 11 received, 0% packet loss, time 10011ms
+rtt min/avg/max/mdev = 20.984/21.130/21.334/0.111 ms
+
