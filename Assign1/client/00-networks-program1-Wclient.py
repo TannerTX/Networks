@@ -14,7 +14,7 @@ if len(sys.argv) < 4:
 	print("Usage: python3 " + sys.argv[0] + " serverAddr serverPort filename")
 	sys.exit(1)
 serverAddr = sys.argv[1]
-serverPort = int(sys.argv[2])
+serverPort = int(sys.argv[2]) or serverPort
 fileName = sys.argv[3]
 
 # Connect to the server
