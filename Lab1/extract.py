@@ -1,8 +1,6 @@
-import statistics as st
+import statistics
 
 def average_and_stddev(numbers):
-    import statistics
-    
     average = sum(numbers) / len(numbers)
     stddev = statistics.stdev(numbers)
     
